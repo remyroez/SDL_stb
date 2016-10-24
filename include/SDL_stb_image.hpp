@@ -2,8 +2,6 @@
 #ifndef SDL_STB_IMAGE_HPP_
 #define SDL_STB_IMAGE_HPP_
 
-#include "SDL.h"
-
 /**
 *  Load a surface from a file.
 *

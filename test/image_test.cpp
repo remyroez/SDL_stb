@@ -1,6 +1,6 @@
 #include <iostream>
 
-#include "SDL.h"
+#include "SDL2/SDL.h"
 
 #define SDL_STB_IMAGE_IMPLEMENTATION
 #include "SDL_stb_image.hpp"
